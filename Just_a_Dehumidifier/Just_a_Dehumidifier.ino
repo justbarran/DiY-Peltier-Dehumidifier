@@ -3,6 +3,7 @@
  * Just a Dehumidifier
  * www.youtube.com/c/justbarran
  * like,share,subscribe 
+ * Help with Libraries Grove Beginner Kit For Arduino: https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/
  */
 
 
